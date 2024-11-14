@@ -10,14 +10,14 @@
 - [ ] Convolutional Neural Network (CNN) - [Link](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
 
 ### [02] Activation Functions
-- [ ] ReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
-- [ ] Sigmoid
-- [ ] tanh
-- [ ] Leaky ReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
-- [ ] Softmax
+- [x] ReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
+- [x] Sigmoid
+- [x] tanh
+- [x] Leaky ReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
+- [x] Softmax
 - [ ] GELU
-- [ ] PReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
-- [ ] eLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
+- [x] PReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
+- [x] eLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
 
 ### [03] Optimizers
 - [ ] SGD - [Link](https://paperswithcode.com/paper/beating-sgd-learning-svms-in-sublinear-time)
