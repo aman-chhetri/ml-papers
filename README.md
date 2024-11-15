@@ -7,7 +7,7 @@
 - I will keep a count and attach research papers as links for the same below
 
 ### [01] Complex Neural Networks
-- [ ] Convolutional Neural Network (CNN) - [Link](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
+- [x] Convolutional Neural Network (CNN) - [Link](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
 
 ### [02] Activation Functions
 - [x] ReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
@@ -15,7 +15,6 @@
 - [x] tanh
 - [x] Leaky ReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
 - [x] Softmax
-- [ ] GELU
 - [x] PReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
 - [x] eLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
 
